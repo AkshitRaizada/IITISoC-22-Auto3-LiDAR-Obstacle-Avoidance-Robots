@@ -2,6 +2,12 @@
 
 Mentors: [Kshitij Bhat](https://github.com/KshitijBhat), [Bhavya Dalal](https://github.com/dalalbhavya)
 
+Members:
+[Sairaj Loke]https://github.com/SairajLoke
+[Akshit Raizada]https://github.com/AkshitRaizada
+[Aditya Guhagarkar]https://github.com/AG10GA
+[Abiroop Mohan]https://github.com/Abiroop
+
 **Description:** Large Warehouses (such as those of Amazon) are
 highly dynamic environments with many moving objects.
 Autonomous Mobile Robots (AMRs) with 3D LiDARs and other
