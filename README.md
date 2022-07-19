@@ -114,24 +114,33 @@ Out of the remaining models, **Clearpath Jackal** was clearly suited for higher 
 
 3.Gazebo
 
-4.
-
 ### Installation
-'''sudo apt-get install ros-noetic-jackal-*
-sudo apt-get install ros-noetic-velodyne-*'''
+```sh
+  sudo apt-get install ros-noetic-jackal-*
+  ```
+```sh
+  sudo apt-get install ros-noetic-velodyne-*
+  ```
 ## Usage
 Useful for any automated ground vehicles in warehouses
 ## How it works
 It uses a 3D lidar (VLP 16) to gather data from its surroundings. The requirement of 3D data is to sense not just its paths but to also sense humans moving around.
+
 ## Roadmap
+Dependencies: Jackal, HDL 32E
+
+
+Cloning:
+
+
 ## Contributing
-On the off chance that someone other than the judges or mentors see this, 
+On the off chance that someone other than the judges or mentors see this
 
 ## Contact us
 
 **Sairaj Loke:**
-[LinkedIn](https://www.linkedin.com/in/sairaj-loke-24370b237)
-[Github](https://github.com/SairajLoke)
+[LinkedIn, ](https://www.linkedin.com/in/sairaj-loke-24370b237)
+[Github, ](https://github.com/SairajLoke)
 WhatsApp: 93726 79958
 
 
@@ -158,16 +167,16 @@ WhatsApp: 97699 50455
 
 
 ## Acknowledgements
-[1. https://github.com/koide3/hdl_graph_slam.git,](https://github.com/koide3/hdl_graph_slam.git)
+[https://github.com/koide3/hdl_graph_slam.git](https://github.com/koide3/hdl_graph_slam.git)
 
 
-[2. https://github.com/koide3/ndt_omp.git](https://github.com/koide3/ndt_omp.git)
+[https://github.com/koide3/ndt_omp.git](https://github.com/koide3/ndt_omp.git)
 
 
-[3. https://github.com/SMRT-AIST/fast_gicp.git](https://github.com/SMRT-AIST/fast_gicp.git)
+[https://github.com/SMRT-AIST/fast_gicp.git](https://github.com/SMRT-AIST/fast_gicp.git)
 
 
-[4. https://github.com/koide3/hdl_graph_slam](https://github.com/koide3/hdl_graph_slam)
+[https://github.com/koide3/hdl_graph_slam](https://github.com/koide3/hdl_graph_slam)
 
 
 
