@@ -7,8 +7,8 @@
 ## Dependency
 
 ```
-sudo apt-get install ros-kinetic-jackal-*
-sudo apt-get install ros-kinetic-velodyne-*
+sudo apt-get install ros-noetic-jackal-*
+sudo apt-get install ros-noetic-velodyne-*
 ```
 
 ## Compile
